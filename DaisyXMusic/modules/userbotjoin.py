@@ -130,6 +130,6 @@ async def addcchannel(client, message):
         )
         return
     await message.reply_text(
-        "<b>helper userbot udah join channel any problem find @XFlick</b>",
+        "<b>helper userbot udah join channel any problem find >>> @XFlick</b>",
     )
     
